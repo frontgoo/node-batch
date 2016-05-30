@@ -1,0 +1,4 @@
+{
+  "applyBatchFile": "../conf/batch-apply-file.txt",
+  "fraudCheckApiUrl": "http://www.baidu.com"
+}
